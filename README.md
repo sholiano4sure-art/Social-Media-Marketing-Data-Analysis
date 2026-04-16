@@ -5,6 +5,7 @@
 - Apply correlation and multiple regression techniques.
 
 **Data Set**
+
 The dataset includes 102 companies across various industries with the following variables:
 
 - Follower Count
