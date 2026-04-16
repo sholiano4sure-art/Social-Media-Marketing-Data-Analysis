@@ -26,6 +26,6 @@ The dataset includes 102 companies across various industries with the following 
 - Engagement rate showed an unexpected negative relationship with sales
 - Larger companies tend to generate higher revenue
 
-  **Conclusion**
+**Conclusion**
 
   Social media marketing contributes to business performance, with brand awareness and company size being key drivers of sales growth.
