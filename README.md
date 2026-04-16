@@ -1,4 +1,4 @@
-# Install and load required packages
+Install and load required packages
 ```{r}
 install.packages("tidyverse")  
 library(tidyverse)
