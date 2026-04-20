@@ -1,8 +1,10 @@
 **Install and load required packages**
+
 install.packages("tidyverse")  # includes dplyr, ggplot2, readr, etc.
 library(tidyverse)
 
 **Set working directory and read the CSV**
+
 setwd("C://Users//cex//Desktop")
 data <- read.csv("Social media data.csv", stringsAsFactors = FALSE)
 view(data)
